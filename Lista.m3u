@@ -443,6 +443,8 @@ http://lb.kstream.org/aovivo/FHD_GNT/video.m3u8?token=abbdfe027842bb710fa0612a82
 http://lb.kstream.org/aovivo/HD_GNT/video.m3u8?token=abbdfe027842bb710fa0612a82ee9746
 #EXTINF:-1 type="stream" tvg-id="GNT HD [Alter]" tvg-logo="https://i.ibb.co/DDW7Xcz/gnt.png" group-title="Variedade",GNT HD [Alter]
 http://lb.kstream.org/aovivo/HD_GNT_ALTER/video.m3u8?token=abbdfe027842bb710fa0612a82ee9746
+#EXTINF:-1 type="stream" tvg-id="Globo RJ Melhor" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="Globo TV",Glbo RJ Melhor
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-id="Globo TV Acre" tvg-logo="https://i.ibb.co/4JDDrt1/redeamazonica.png" group-title="Globo TV",Globo TV Acre
 http://lb.kstream.org/aovivo/SD_GLOBO_AMAZONICA_ACRE/video.m3u8?token=abbdfe027842bb710fa0612a82ee9746
 #EXTINF:-1 type="stream" tvg-id="Globo TV Acre HD" tvg-logo="https://i.ibb.co/4JDDrt1/redeamazonica.png" group-title="Globo TV",Globo TV Acre HD
