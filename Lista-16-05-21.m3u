@@ -3,10 +3,10 @@
 http://diretogo.com:80/valter2/valter123/10054706
 #EXTINF:-1 group-title="ABERTOS" tvg-id="Globosp.br" tvg-name="GB SP HD*" tvg-logo="https://i.imgur.com/OEKddLl.png" ,GB SP HD*
 http://diretogo.com:80/pnebyvan/mimimi2928/10054705
-#EXTINF:-1 group-title="ABERTOS" tvg-id="Globo.br" tvg-name="GB TV VANGUARDA S J CAMPOS FHD*" tvg-logo="https://i.imgur.com/7PtqdrV.png" ,GB TV VANGUARDA S J CAMPOS FHD*
-http://diretogo.com:80/valter2/valter123/10054637
-#EXTINF:-1 group-title="ABERTOS" tvg-id="Globo.br" tvg-name="GB TV VANGUARDA S J CAMPOS HD*" tvg-logo="https://i.imgur.com/7PtqdrV.png" ,GB TV VANGUARDA S J CAMPOS HD*
-http://diretogo.com:80/pnebyvan/mimimi2928/10054636
+#EXTINF:-1 group-title="ABERTOS" tvg-id="Globo.br" tvg-logo="https://imgur.com/5RQ1PxL.png" ,Globo RJ SD
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+#EXTINF:-1 group-title="ABERTOS" tvg-id="Globo.br" tvg-logo="https://imgur.com/5RQ1PxL.png" ,Globo RJ HD | Brasil
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 #EXTINF:-1 group-title="ABERTOS" tvg-id="Sbt.br" tvg-name="SBT SP FHD*" tvg-logo="https://i.imgur.com/ZH05UFI.png" ,SBT SP FHD*
 http://diretogo.com:80/valter2/valter123/10054395
 #EXTINF:-1 group-title="ABERTOS" tvg-id="Sbt.br" tvg-name="SBT SP HD*" tvg-logo="https://i.imgur.com/ZH05UFI.png" ,SBT SP HD*
