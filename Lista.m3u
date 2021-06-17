@@ -1,742 +1,224 @@
-#EXTM3U
-
-#EXTINF:0 tvg-logo="" group-title="ABERTOS", BAND
+#EXTINF:-1, BAND
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="INFANTIL", TV LATINASAT
-https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/chunklist_w651348554.m3u8
-
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-DApr_TZTtqM/Xvi5SHxkMjI/AAAAAAAABgA/qUXXzTVORBU8Rtma7aBW3ubgJAWQYDMugCK4BGAYYCw/s150/download%2B-%2BCopia%2B%25282%2529%2B%25281%2529.png" group-title="INFANTIL",TV SV
-https://stmv6.srvstm.com/leandro9908/leandro9908/chunklist_w2010218111.m3u8
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-BysZBlK2G5o/XtbFWt8jSbI/AAAAAAAAC5M/_A_0m2y1Oo8WkJT8J5DdveOjLPRoBM_SgCPcBGAYYCw/s0/Screenshot_2020-06-02-18-28-37.png" group-title="INFANTIL", TV MANCHETE 
+#EXTINF:-1, TV MANCHETE
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1807326387.m3u8
-
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dcb3ff84b8f31ddc39ef213b42402f75.jpg"group-title="INFANTIL", C29 SÉRIES
+#EXTINF:-1, C29 SÉRIES
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1705369695.m3u8
-
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-YgQ62zTBdP0/XvP-H_IcUtI/AAAAAAAADDI/wzOs9vOrgZsJHsbEePpKoIJnRD7PutXrACLcBGAsYHQ/s320/Screenshot_2020-06-24-22-22-55.png"group-title="ESPORTES", TV ARAGUAIA
+#EXTINF:-1, TV ARAGUAIA
 http://video01.kshost.com.br/mayra5349/mayra5349/chunklist_w1133612780.m3u8
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", RETRO CARTOON
+#EXTINF:-1, RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w714679706.m3u8
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", RETRO CARTOON 2
+#EXTINF:-1, RETRO CARTOON 2
 https://stmv1.srvstm.com/cartoonr2/cartoonr2/chunklist_w408303418.m3u8
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", JETSONS TV
+#EXTINF:-1, JETSONS TV
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w711000790.m3u8
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", DESENHOS/SERIADOS 1
+#EXTINF:-1, DESENHOS/SERIADOS 1
 https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w117310943.m3u8
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", DESENHOS/SERIADOS 2
+#EXTINF:-1, DESENHOS/SERIADOS 2
 https://stmv1.voxtvhd.com.br/webtvxtreme/webtvxtreme/chunklist_w210408012.m3u8
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", DESENHOS/SERIADOS 3
-https://stmv1.srvif.com/redetupi/redetupi/chunklist_w45725014.m3u8
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", DESENHOS/SERIADOS 4
+#EXTINF:-1, DESENHOS/SERIADOS 4
 https://stmv1.srvif.com/radiowebguarei/radiowebguarei/chunklist_w1716541781.m3u8
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", GOSPEL CARTOON
+#EXTINF:-1, GOSPEL CARTOON
 https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/chunklist_w1723916290.m3u8
-
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://i.imgur.com/kcxzdPA.png" group-title="ESPORTES", PREMIERE op1
-https://m2j3tv8e8t.azcdn728.net:8443/hls/fi73w30spdaav-1553852070.ts
-
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="" , PREMIERE op2
+#EXTINF:-1, PREMIERE op2
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/esportes4_2000/index.m3u8
-
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="" , PREMIERE op3
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/livefc04hd/video.m3u8?md5=jsdvVEJ9ZVZBi4uRodQg3g&expires=1623917510
-
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="" , PREMIERE op4
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/livefc04sd/video.m3u8?md5=YylHeG_7E7WbnfqcJaN-HQ&expires=1623917748
-
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.imgur.com/C9SpMkF.png" , Estádio TNT Sports 1
+#EXTINF:-1, Estádio TNT Sports 1
 https://slvcs87g3x.akamaized.net/live/canal_01/playlist.m3u8
-
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.imgur.com/C9SpMkF.png" , Estádio TNT Sports 2
-https://slvcs87g3x.akamaized.net/live/canal_02/playlist.m3u8
-
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.imgur.com/C9SpMkF.png" , Estádio TNT Sports 3
-https://slvcs87g3x.akamaized.net/live/canal_03/playlist.m3u8
-
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.imgur.com/C9SpMkF.png" , Estádio TNT Sports 4
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.imgur.com/C9SpMkF.png" , Estádio TNT Sports 5
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.imgur.com/C9SpMkF.png" , Estádio TNT Sports 6
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.imgur.com/C9SpMkF.png" , Estádio TNT Sports 7
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.imgur.com/C9SpMkF.png" , Estádio TNT Sports 8
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-
-#EXTINF:-1 tvg-logo"" group-title="ESPORTES", SPORTV 1 HD
+#EXTINF:-1, SPORTV 1 HD
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
-
-#EXTINF:-1 tvg-logo"" group-title="ESPORTES", PREMIERE 1 HD
+#EXTINF:-1, PREMIERE 1 HD
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="VARIEDADES", TNT HD
+#EXTINF:-1, TNT HD
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="VARIEDADES", TNT SD
+#EXTINF:-1, TNT SD
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs4_1000/index.m3u8
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ABERTOS", TV DIÁRIO
-https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZYnB4yszR_gQ7Im34i2lbYo)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pVbMyHi.png" group-title="INFANTIL", Disney XD
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8?FORMIGAtv
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-ucaQnWdXy2M/WnOj1PfA7mI/AAAAAAABD1g/RUVOBTXOHvUFTjeIss2aofvNP_xT6VpewCLcBGAs/s1600/Logo%2BDisney_Junior.png" group-title="INFANTIL", Disney JR
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8?FORMIGAtv
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="INFANTIL", Disney Channel
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8?FORMIGAtv
-
-#EXTINF:-1 tvg-ID="" tvg-name="BOOMERANG" tvg-logo="http://168.205.87.198/logocanais/boomerang.png" group-title="INFANTIL", BOOMERANG
+#EXTINF:-1, BOOMERANG
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/22.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="CARTOON NETWORK" tvg-logo="http://168.205.87.198/logocanais/cartoonnetwork.png" group-title="INFANTIL", CARTOON NETWORK
+#EXTINF:-1, CARTOON NETWORK
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/26.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="COMEDY CENTRAL" tvg-logo="http://168.205.87.198/logocanais/comedycentral.png" group-title="VARIEDADES", COMEDY CENTRAL
+#EXTINF:-1, COMEDY CENTRAL
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/29.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY SCI" tvg-logo="http://168.205.87.198/logocanais/discoverysci.png" group-title="VARIEDADES", DISCOVERY SCI
+#EXTINF:-1, DISCOVERY SCI
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/38.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY THEATER" tvg-logo="http://168.205.87.198/logocanais/discoverytheater.png" group-title="VARIEDADES", DISCOVERY THEATER
+#EXTINF:-1, DISCOVERY THEATER
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/39.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY TURBO" tvg-logo="http://168.205.87.198/logocanais/discoveryturbo.png" group-title="VARIEDADES", DISCOVERY TURBO
+#EXTINF:-1, DISCOVERY TURBO
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/41.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY WORLD" tvg-logo="http://168.205.87.198/logocanais/discoveryworld.png" group-title="VARIEDADES", DISCOVERY WORLD
+#EXTINF:-1, DISCOVERY WORLD
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/42.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="STAR LIFE" tvg-logo="http://168.205.87.198/logocanais/foxlife.png" group-title="VARIEDADES", STAR LIFE
+#EXTINF:-1, STAR LIFE
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/64.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 2" tvg-logo="http://168.205.87.198/logocanais/foxsports2.png" group-title="ESPORTES", FOX SPORTS 2
+#EXTINF:-1, FOX SPORTS 2
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/66.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS" tvg-logo="http://168.205.87.198/logocanais/foxsports.png" group-title="ESPORTES", FOX SPORTS
+#EXTINF:-1, FOX SPORTS
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/65.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="STAR CHANNEL" tvg-logo="http://168.205.87.198/logocanais/foxchannel.png" group-title="VARIEDADES", STAR CHANNEL
+#EXTINF:-1, STAR CHANNEL
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/63.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="MAP KIDS" tvg-logo="" group-title="INFANTIL", MAP KIDS
+#EXTINF:-1, MAP KIDS
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/143.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="MTV" tvg-logo="http://168.205.87.198/logocanais/mtv.png" group-title="VARIEDADES", MTV
+#EXTINF:-1, MTV
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/76.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="MTV LIVE" tvg-logo="http://168.205.87.198/logocanais/vh1megahits.png" group-title="VARIEDADES", MTV LIVE
+#EXTINF:-1, MTV LIVE
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/140.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON" tvg-logo="http://168.205.87.198/logocanais/nick.png" group-title="INFANTIL", NICKELODEON
-https://play.fibralink.net.br/media/n/BZi1nZuZy2G2mZe1odu/a/BZi1nZuZy2G2mZe1odu/720p/chunks.m3u8?ch=BZi1nZuZy2G2mZe1odu&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MjI2MzU3NTIsImlhdCI6MTYyMjYxNzc1Miwic3ViIjoiZGVmYXVsdCMxNTUyOTI5MTYxIn0.vlrjpCH0rCoKFzXm3XxuBwJreYCYWVghrJLWe2agB1k
-
-#EXTINF:-1 tvg-ID="" tvg-name="SPACE" tvg-logo="http://168.205.87.198/logocanais/space.png" group-title="VARIEDADES", SPACE
+#EXTINF:-1, SPACE
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/110.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="TNT SÉRIES" tvg-logo="http://168.205.87.198/logocanais/tntseries.png" group-title="VARIEDADES", TNT SÉRIES
+#EXTINF:-1, TNT SÉRIES
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/117.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="TNT" tvg-logo="http://168.205.87.198/logocanais/tnt.png" group-title="VARIEDADES", TNT
+#EXTINF:-1, TNT
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/116.m3u8
-
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="https://imgur.com/fdhaL82.png" group-title="Temporário",ESPN BRASIL HD
-http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
-
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="https://imgur.com/fdhaL82.png" group-title="Temporário",ESPN BRASIL SD
-https://playplusespn-lh.akamaihd.net:443/i/pp_espnbra@374460/index_360_av-p.m3u8
-
-#EXTINF:-1 tvg-id="Espn.br" tvg-logo="https://imgur.com/uNjcrBt.png" group-title="Temporário",ESPN HD
-http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
-
-#EXTINF:-1 tvg-id="Espn.br" tvg-logo="https://imgur.com/uNjcrBt.png" group-title="Temporário",ESPN SD
-http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_360_av-p.m3u8
-
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-logo="https://imgur.com/uBJ8T0B.png" group-title="Temporário",ESPN 2 HD
-http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
-
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-logo="https://imgur.com/uBJ8T0B.png" group-title="Temporário",ESPN 2 SD
-http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_360_av-p.m3u8
-
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="https://imgur.com/NYMMklm.png" group-title="Temporário",ESPN Extra HD
-http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
-
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="https://imgur.com/NYMMklm.png" group-title="Temporário",ESPN Extra SD
-http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-5.png" group-title="ABERTOS", SBT
+#EXTINF:-1, SBT
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?ChannelsON
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="ABERTOS", TV JANGADEIRO
+#EXTINF:-1, TV JANGADEIRO
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w594571588_b1000000.m3u8
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", YES Kids
+#EXTINF:-1, YES Kids
 https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/chunklist_w733144608.m3u8
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", CINEBOX 2
+#EXTINF:-1, CINEBOX 2
 https://stmv1.srvstm.com/channel1/channel1/chunklist_w416111348.m3u8
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", CINEBOX 4
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/media_w1914138137_b1000000_1018.ts
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9v2-tcxKdxx6RLXjJr4kgYkhm3UimbzjqA&usqp=CAU" group-title="INFANTIL", SUMMER TV
+#EXTINF:-1, SUMMER TV
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w1861189656.m3u8
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 1", EPISÓDIO 01
+#EXTINF:-1, EPISÓDIO 01
 http://pixconection.xyz/host04.php?b=tv/68603/1/dub/1.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 1", EPISÓDIO 02
+#EXTINF:-1, EPISÓDIO 02
 http://pixconection.xyz/host04.php?b=tv/68603/1/dub/2.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 1", EPISÓDIO 03
+#EXTINF:-1, EPISÓDIO 03
 http://pixconection.xyz/host04.php?b=tv/68603/1/dub/3.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 1", EPISÓDIO 04
+#EXTINF:-1, EPISÓDIO 04
 http://pixconection.xyz/host04.php?b=tv/68603/1/dub/4.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 1", EPISÓDIO 05
+#EXTINF:-1, EPISÓDIO 05
 http://pixconection.xyz/host04.php?b=tv/68603/1/dub/5.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 1", EPISÓDIO 06
+#EXTINF:-1, EPISÓDIO 06
 http://pixconection.xyz/host04.php?b=tv/68603/1/dub/6.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 1", EPISÓDIO 07
+#EXTINF:-1, EPISÓDIO 07
 http://pixconection.xyz/host04.php?b=tv/68603/1/dub/7.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 1", EPISÓDIO 08
+#EXTINF:-1, EPISÓDIO 08
 http://pixconection.xyz/host04.php?b=tv/68603/1/dub/8.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 1", EPISÓDIO 09
+#EXTINF:-1, EPISÓDIO 09
 http://pixconection.xyz/host04.php?b=tv/68603/1/dub/9.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 1", EPISÓDIO 10
+#EXTINF:-1, EPISÓDIO 10
 http://pixconection.xyz/host04.php?b=tv/68603/1/dub/10.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 2", EPISÓDIO 01
+#EXTINF:-1, EPISÓDIO 01
 http://s4.heromoster.buzz/online/tv/68603/2/dub/1.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 2", EPISÓDIO 02
+#EXTINF:-1, EPISÓDIO 02
 http://s4.heromoster.buzz/online/tv/68603/2/dub/2.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 2", EPISÓDIO 03
+#EXTINF:-1, EPISÓDIO 03
 http://s4.heromoster.buzz/online/tv/68603/2/dub/3.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 2", EPISÓDIO 04
+#EXTINF:-1, EPISÓDIO 04
 http://s4.heromoster.buzz/online/tv/68603/2/dub/4.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 2", EPISÓDIO 05
+#EXTINF:-1, EPISÓDIO 05
 http://s4.heromoster.buzz/online/tv/68603/2/dub/5.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 2", EPISÓDIO 06
+#EXTINF:-1, EPISÓDIO 06
 http://s4.heromoster.buzz/online/tv/68603/2/dub/6.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 2", EPISÓDIO 07
+#EXTINF:-1, EPISÓDIO 07
 http://s4.heromoster.buzz/online/tv/68603/2/dub/7.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 2", EPISÓDIO 08
+#EXTINF:-1, EPISÓDIO 08
 http://s4.heromoster.buzz/online/tv/68603/2/dub/8.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 2", EPISÓDIO 09
+#EXTINF:-1, EPISÓDIO 09
 http://s4.heromoster.buzz/online/tv/68603/2/dub/9.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 2", EPISÓDIO 10
+#EXTINF:-1, EPISÓDIO 10
 http://s4.heromoster.buzz/online/tv/68603/2/dub/10.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 3", EPISÓDIO 01
+#EXTINF:-1, EPISÓDIO 01
 http://pixconection.xyz/host04.php?b=tv/68603/3/dub/1.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 3", EPISÓDIO 02
+#EXTINF:-1, EPISÓDIO 02
 http://pixconection.xyz/host04.php?b=tv/68603/3/dub/2.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 3", EPISÓDIO 03
+#EXTINF:-1, EPISÓDIO 03
 http://pixconection.xyz/host04.php?b=tv/68603/3/dub/3.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 3", EPISÓDIO 04
+#EXTINF:-1, EPISÓDIO 04
 http://pixconection.xyz/host04.php?b=tv/68603/3/dub/4.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 3", EPISÓDIO 05
+#EXTINF:-1, EPISÓDIO 05
 http://pixconection.xyz/host04.php?b=tv/68603/3/dub/5.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 3", EPISÓDIO 06
+#EXTINF:-1, EPISÓDIO 06
 http://pixconection.xyz/host04.php?b=tv/68603/3/dub/6.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 3", EPISÓDIO 07
+#EXTINF:-1, EPISÓDIO 07
 http://pixconection.xyz/host04.php?b=tv/68603/3/dub/7.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 3", EPISÓDIO 08
+#EXTINF:-1, EPISÓDIO 08
 http://pixconection.xyz/host04.php?b=tv/68603/3/dub/8.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 3", EPISÓDIO 09
+#EXTINF:-1, EPISÓDIO 09
 http://pixconection.xyz/host04.php?b=tv/68603/3/dub/9.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 3", EPISÓDIO 10
+#EXTINF:-1, EPISÓDIO 10
 http://pixconection.xyz/host04.php?b=tv/68603/3/dub/10.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 3", EPISÓDIO 11
+#EXTINF:-1, EPISÓDIO 11
 http://pixconection.xyz/host04.php?b=tv/68603/3/dub/11.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 3", EPISÓDIO 12
+#EXTINF:-1, EPISÓDIO 12
 http://pixconection.xyz/host04.php?b=tv/68603/3/dub/12.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 4", EPISÓDIO 01
+#EXTINF:-1, EPISÓDIO 01
 http://pixconection.xyz/host04.php?b=tv/68603/4/dub/1.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 4", EPISÓDIO 02
+#EXTINF:-1, EPISÓDIO 02
 http://pixconection.xyz/host04.php?b=tv/68603/4/dub/2.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 4", EPISÓDIO 03
+#EXTINF:-1, EPISÓDIO 03
 http://pixconection.xyz/host04.php?b=tv/68603/4/dub/3.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 4", EPISÓDIO 04
+#EXTINF:-1, EPISÓDIO 04
 http://pixconection.xyz/host04.php?b=tv/68603/4/dub/4.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 4", EPISÓDIO 05
+#EXTINF:-1, EPISÓDIO 05
 http://pixconection.xyz/host04.php?b=tv/68603/4/dub/5.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 4", EPISÓDIO 06
+#EXTINF:-1, EPISÓDIO 06
 http://pixconection.xyz/host04.php?b=tv/68603/4/dub/6.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 4", EPISÓDIO 07
+#EXTINF:-1, EPISÓDIO 07
 http://pixconection.xyz/host04.php?b=tv/68603/4/dub/7.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 4", EPISÓDIO 08
+#EXTINF:-1, EPISÓDIO 08
 http://pixconection.xyz/host04.php?b=tv/68603/4/dub/8.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 4", EPISÓDIO 09
+#EXTINF:-1, EPISÓDIO 09
 http://pixconection.xyz/host04.php?b=tv/68603/4/dub/9.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 4", EPISÓDIO 10
+#EXTINF:-1, EPISÓDIO 10
 http://pixconection.xyz/host04.php?b=tv/68603/4/dub/10.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 4", EPISÓDIO 11
+#EXTINF:-1, EPISÓDIO 11
 http://pixconection.xyz/host04.php?b=tv/68603/4/dub/11.mp4
-
-#EXTINF:-1 tvg-logo"https://bit.ly/1DeFeriasComExBrasil" group-title="DE FÉRIAS COM O EX BRASIL 4", EPISÓDIO 12
+#EXTINF:-1, EPISÓDIO 12
 http://pixconection.xyz/host04.php?b=tv/68603/4/dub/12.mp4
-
-#EXTINF:-1 tvg-logo"http://bit.ly/1MANIFEST" group-title="SERIES | MANIFEST", S01E01 MANIFEST
+#EXTINF:-1, S01E01 MANIFEST
 http://pixconection.xyz/host04.php?b=tv/79696/1/dub/1.mp4
-
-#EXTINF:-1 tvg-logo"http://bit.ly/1MANIFEST" group-title="SERIES | MANIFEST", S01E02 MANIFEST
+#EXTINF:-1, S01E02 MANIFEST
 http://pixconection.xyz/host04.php?b=tv/79696/1/dub/2.mp4
-
-#EXTINF:-1 tvg-logo"http://bit.ly/1MANIFEST" group-title="SERIES | MANIFEST", S01E03 MANIFEST
+#EXTINF:-1, S01E03 MANIFEST
 http://pixconection.xyz/host04.php?b=tv/79696/1/dub/3.mp4
-
-#EXTINF:-1 tvg-logo"http://bit.ly/1MANIFEST" group-title="SERIES | MANIFEST", S01E04 MANIFEST
+#EXTINF:-1, S01E04 MANIFEST
 http://pixconection.xyz/host04.php?b=tv/79696/1/dub/4.mp4
-
-#EXTINF:-1 tvg-logo"http://bit.ly/1MANIFEST" group-title="SERIES | MANIFEST", S01E05 MANIFEST
+#EXTINF:-1, S01E05 MANIFEST
 http://pixconection.xyz/host04.php?b=tv/79696/1/dub/5.mp4
-
-#EXTINF:-1 tvg-logo"http://bit.ly/1MANIFEST" group-title="SERIES | MANIFEST", S01E06 MANIFEST
+#EXTINF:-1, S01E06 MANIFEST
 http://pixconection.xyz/host04.php?b=tv/79696/1/dub/6.mp4
-
-#EXTINF:-1 tvg-logo"http://bit.ly/1MANIFEST" group-title="SERIES | MANIFEST", S01E07 MANIFEST
+#EXTINF:-1, S01E07 MANIFEST
 http://pixconection.xyz/host04.php?b=tv/79696/1/dub/7.mp4
-
-#EXTINF:-1 tvg-logo"http://bit.ly/1MANIFEST" group-title="SERIES | MANIFEST", S01E08 MANIFEST
+#EXTINF:-1, S01E08 MANIFEST
 http://pixconection.xyz/host04.php?b=tv/79696/1/dub/8.mp4
-
-#EXTINF:-1 tvg-logo"http://bit.ly/1MANIFEST" group-title="SERIES | MANIFEST", S01E09 MANIFEST
+#EXTINF:-1, S01E09 MANIFEST
 http://pixconection.xyz/host04.php?b=tv/79696/1/dub/9.mp4
-
-#EXTINF:-1 tvg-logo"http://bit.ly/1MANIFEST" group-title="SERIES | MANIFEST", S01E10 MANIFEST
+#EXTINF:-1, S01E10 MANIFEST
 http://pixconection.xyz/host04.php?b=tv/79696/1/dub/10.mp4
-
-#EXTINF:-1 tvg-logo"http://bit.ly/1MANIFEST" group-title="SERIES | MANIFEST", S01E11 MANIFEST
+#EXTINF:-1, S01E11 MANIFEST
 http://pixconection.xyz/host04.php?b=tv/79696/1/dub/11.mp4
-
-#EXTINF:-1 tvg-logo"http://bit.ly/1MANIFEST" group-title="SERIES | MANIFEST", S01E12 MANIFEST
+#EXTINF:-1, S01E12 MANIFEST
 http://pixconection.xyz/host04.php?b=tv/79696/1/dub/12.mp4
-
-#EXTINF:-1 tvg-logo"http://bit.ly/1MANIFEST" group-title="SERIES | MANIFEST", S01E13 MANIFEST
+#EXTINF:-1, S01E13 MANIFEST
 http://pixconection.xyz/host04.php?b=tv/79696/1/dub/13.mp4
-
-#EXTINF:-1 tvg-logo"http://bit.ly/1MANIFEST" group-title="SERIES | MANIFEST", S01E14 MANIFEST
+#EXTINF:-1, S01E14 MANIFEST
 http://pixconection.xyz/host04.php?b=tv/79696/1/dub/14.mp4
-
-#EXTINF:-1 tvg-logo"http://bit.ly/1MANIFEST" group-title="SERIES | MANIFEST", S01E15 MANIFEST
+#EXTINF:-1, S01E15 MANIFEST
 http://pixconection.xyz/host04.php?b=tv/79696/1/dub/15.mp4
-
-#EXTINF:-1 tvg-logo"http://bit.ly/1MANIFEST" group-title="SERIES | MANIFEST", S01E16 MANIFEST
+#EXTINF:-1, S01E16 MANIFEST
 http://pixconection.xyz/host04.php?b=tv/79696/1/dub/16.mp4
-
-#EXTINF:-1 tvg-logo"http://bit.ly/1MANIFEST" group-title="SERIES | MANIFEST", S02E01 MANIFEST
+#EXTINF:-1, S02E01 MANIFEST
 http://pixconection.xyz/host04.php?b=tv/79696/2/dub/1.mp4
-
-#EXTINF:-1 tvg-logo"http://bit.ly/1MANIFEST" group-title="SERIES | MANIFEST", S02E02 MANIFEST
+#EXTINF:-1, S02E02 MANIFEST
 http://pixconection.xyz/host04.php?b=tv/79696/2/dub/2.mp4
-
-#EXTINF:-1 tvg-logo"http://bit.ly/1MANIFEST" group-title="SERIES | MANIFEST", S02E03 MANIFEST
+#EXTINF:-1, S02E03 MANIFEST
 http://pixconection.xyz/host04.php?b=tv/79696/2/dub/3.mp4
-
-#EXTINF:-1 tvg-logo"http://bit.ly/1MANIFEST" group-title="SERIES | MANIFEST", S02E04 MANIFEST
+#EXTINF:-1, S02E04 MANIFEST
 http://pixconection.xyz/host04.php?b=tv/79696/2/dub/4.mp4
-
-#EXTINF:-1 tvg-logo"http://bit.ly/1MANIFEST" group-title="SERIES | MANIFEST", S02E05 MANIFEST
+#EXTINF:-1, S02E05 MANIFEST
 http://pixconection.xyz/host04.php?b=tv/79696/2/dub/5.mp4
-
-#EXTINF:-1 tvg-logo"http://bit.ly/1MANIFEST" group-title="SERIES | MANIFEST", S02E06 MANIFEST
+#EXTINF:-1, S02E06 MANIFEST
 http://pixconection.xyz/host04.php?b=tv/79696/2/dub/6.mp4
-
-#EXTINF:-1 tvg-logo"http://bit.ly/1MANIFEST" group-title="SERIES | MANIFEST", S02E07 MANIFEST
+#EXTINF:-1, S02E07 MANIFEST
 http://pixconection.xyz/host04.php?b=tv/79696/2/dub/7.mp4
-
-#EXTINF:-1 tvg-logo"http://bit.ly/1MANIFEST" group-title="SERIES | MANIFEST", S02E08 MANIFEST
+#EXTINF:-1, S02E08 MANIFEST
 http://pixconection.xyz/host04.php?b=tv/79696/2/dub/8.mp4
-
-#EXTINF:-1 tvg-logo"http://bit.ly/1MANIFEST" group-title="SERIES | MANIFEST", S02E09 MANIFEST
+#EXTINF:-1, S02E09 MANIFEST
 http://pixconection.xyz/host04.php?b=tv/79696/2/dub/9.mp4
-
-#EXTINF:-1 tvg-logo"http://bit.ly/1MANIFEST" group-title="SERIES | MANIFEST", S02E10 MANIFEST
+#EXTINF:-1, S02E10 MANIFEST
 http://pixconection.xyz/host04.php?b=tv/79696/2/dub/10.mp4
-
-#EXTINF:-1 tvg-logo"http://bit.ly/1MANIFEST" group-title="SERIES | MANIFEST", S02E11 MANIFEST
+#EXTINF:-1, S02E11 MANIFEST
 http://pixconection.xyz/host04.php?b=tv/79696/2/dub/11.mp4
-
-#EXTINF:-1 tvg-logo"http://bit.ly/1MANIFEST" group-title="SERIES | MANIFEST", S02E12 MANIFEST
+#EXTINF:-1, S02E12 MANIFEST
 http://pixconection.xyz/host04.php?b=tv/79696/2/dub/12.mp4
-
-#EXTINF:-1 tvg-logo"http://bit.ly/1MANIFEST" group-title="SERIES | MANIFEST", S02E13 MANIFEST
+#EXTINF:-1, S02E13 MANIFEST
 http://pixconection.xyz/host04.php?b=tv/79696/2/dub/13.mp4
-
-#EXTINF: -1 tvg-logo "" group-title = "SERIES | FALCÃO E O SOLDADO INVERNAL", S01E01
-http://s6.heromoster.buzz/online/thor/88396/1/dub/01.mp4
-
-#EXTINF: -1 tvg-logo "" group-title = "SERIES | FALCÃO E O SOLDADO INVERNAL", S01E02 
-http://s6.heromoster.buzz/online/thor/88396/1/dub/2.mp4
-
-#EXTINF: -1 tvg-logo "" group-title = "SERIES | FALCÃO E O SOLDADO INVERNAL", S01E03 
-http://s6.heromoster.buzz/online/thor/88396/1/dub/003.mp4
-
-#EXTINF: -1 tvg-logo "" group-title = "SERIES | FALCÃO E O SOLDADO INVERNAL", S01E04 
-http://s6.heromoster.buzz/online/thor/88396/1/dub/04.mp4
-
-#EXTINF: -1 tvg-logo "" group-title = "SERIES | FALCÃO E O SOLDADO INVERNAL", S01E05 
-http://s6.heromoster.buzz/online/thor/88396/1/dub/005.mp4
-
-#EXTINF: -1 tvg-logo "" group-title = "SERIES | FALCÃO E O SOLDADO INVERNAL", S01E06 
-http://s6.heromoster.buzz/online/thor/88396/1/dub/06.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S01E01
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-dublado/sd/1.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S01E02
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-dublado/sd/2.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S01E03
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-dublado/sd/3.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S01E04
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-dublado/sd/4.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S01E05
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-dublado/sd/5.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S01E06
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-dublado/sd/6.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S01E07
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-dublado/sd/7.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S01E08
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-dublado/sd/8.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S01E09
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-dublado/sd/9.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S01E10
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-dublado/sd/10.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S01E11
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-dublado/sd/11.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S01E12
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-dublado/sd/12.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S01E13
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-dublado/sd/13.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S02E01
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-2-dublado/sd/1.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S02E02
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-2-dublado/sd/2.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S02E03
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-2-dublado/sd/3.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S02E04
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-2-dublado/sd/4.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S02E05
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-2-dublado/sd/5.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S02E06
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-2-dublado/sd/6.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S02E07
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-2-dublado/sd/7.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S02E08
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-2-dublado/sd/8.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S02E09
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-2-dublado/sd/9.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S02E10
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-2-dublado/sd/10.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S02E11
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-2-dublado/sd/11.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S02E12
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-2-dublado/sd/12.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S02E13
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-2-dublado/sd/13.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S02E14
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-2-dublado/sd/14.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S02E15
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-2-dublado/sd/15.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S02E16
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-2-dublado/sd/16.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S02E17
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-2-dublado/sd/17.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S02E18
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-2-dublado/sd/18.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S02E19
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-2-dublado/sd/19.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S02E20
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-2-dublado/sd/20.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S02E21
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-2-dublado/sd/21.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S02E22
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-2-dublado/sd/22.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S02E23
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-2-dublado/sd/23.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S02E24
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-2-dublado/sd/24.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S02E25
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-2-dublado/sd/25.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S03E01
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-3-dublado/sd/1.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S03E02
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-3-dublado/sd/2.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S03E03
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-3-dublado/sd/3.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S03E04
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-3-dublado/sd/4.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S03E05
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-3-dublado/sd/5.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S03E06
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-3-dublado/sd/6.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S03E07
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-3-dublado/sd/7.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S03E08
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-3-dublado/sd/8.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S03E09
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-3-dublado/sd/9.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S03E10
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-3-dublado/sd/10.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S03E11
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-3-dublado/sd/11.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S03E12
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-3-dublado/sd/12.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S03E13
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-3-dublado/sd/13.mp4
-
- #EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S03E14
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-3-dublado/sd/14.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S03E15
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-3-dublado/sd/15.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S03E16
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-3-dublado/sd/16.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S03E17
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-3-dublado/sd/17.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S03E18
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-3-dublado/sd/18.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S03E19
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-3-dublado/sd/19.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S03E20
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-3-dublado/sd/20.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S03E21
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-3-dublado/sd/21.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S03E22
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-3-dublado/sd/22.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S03E23
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-3-dublado/sd/23.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S03E24
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-3-dublado/sd/24.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S03E25
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-3-dublado/sd/25.mp4 
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S04E01
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-4-dublado/sd/1.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S04E02
-https://4567454.animefire.net/s1/mp4/boku-no-hero-academia-4-dublado/sd/2.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S04E03
-https://4567454.animefire.net/s2/mp4/boku-no-hero-academia-4-dublado/sd/3.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S04E04
-https://4567454.animefire.net/s2/mp4/boku-no-hero-academia-4-dublado/sd/4.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S04E05
-https://4567454.animefire.net/s2/mp4/boku-no-hero-academia-4-dublado/sd/5.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S04E06
-https://4567454.animefire.net/s2/mp4/boku-no-hero-academia-4-dublado/sd/6.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S04E07
-https://4567454.animefire.net/s2/mp4/boku-no-hero-academia-4-dublado/sd/7.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S04E08
-https://4567454.animefire.net/s2/mp4/boku-no-hero-academia-4-dublado/sd/8.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S04E09
-https://4567454.animefire.net/s2/mp4/boku-no-hero-academia-4-dublado/sd/9.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S04E10
-https://4567454.animefire.net/s2/mp4/boku-no-hero-academia-4-dublado/sd/10.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S04E11
-https://4567454.animefire.net/s2/mp4/boku-no-hero-academia-4-dublado/sd/11.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S04E12
-https://4567454.animefire.net/s2/mp4/boku-no-hero-academia-4-dublado/sd/12.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S04E13
-https://4567454.animefire.net/s2/mp4/boku-no-hero-academia-4-dublado/sd/13.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S04E14
-https://4567454.animefire.net/s2/mp4/boku-no-hero-academia-4-dublado/sd/14.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S04E15
-https://4567454.animefire.net/s2/mp4/boku-no-hero-academia-4-dublado/sd/15.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S04E16
-https://4567454.animefire.net/s2/mp4/boku-no-hero-academia-4-dublado/sd/16.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S04E17
-https://4567454.animefire.net/s2/mp4/boku-no-hero-academia-4-dublado/sd/17.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S04E18
-https://4567454.animefire.net/s2/mp4/boku-no-hero-academia-4-dublado/sd/18.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S04E19
-https://4567454.animefire.net/s2/mp4/boku-no-hero-academia-4-dublado/sd/19.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S04E20
-https://4567454.animefire.net/s2/mp4/boku-no-hero-academia-4-dublado/sd/20.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S04E21
-https://4567454.animefire.net/s2/mp4/boku-no-hero-academia-4-dublado/sd/21.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S04E22
-https://4567454.animefire.net/s2/mp4/boku-no-hero-academia-4-dublado/sd/22.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S04E23
-https://4567454.animefire.net/s2/mp4/boku-no-hero-academia-4-dublado/sd/23.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S04E24
-https://4567454.animefire.net/s2/mp4/boku-no-hero-academia-4-dublado/sd/24.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="ANIMES | BOKU NO HERO", S04E25
-https://4567454.animefire.net/s2/mp4/boku-no-hero-academia-4-dublado/sd/25.mp4 
- 
-#EXTINF:-1 tvg-logo"" group-title="FILMES | HERÓIS", LIGA DA JUSTIÇA DE ZACK SNYDER (2021)
-http://www.empiricus.com.br.global.prod.fastly.net/leastindover/ett/newsthg/filmcucu/zckysnydsjstclgueDUB.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="FILMES | HERÓIS", AVES DE RAPINA: ARLEQUINA E SUA EMANCIPAÇÃO FANTABULOSA (2020)
-http://www.empiricus.com.br.global.prod.fastly.net/leastindover/ett/fm/avsderpinaarlequina_dub.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="FILMES | HERÓIS", HELLBOY (2019)
-http://www.empiricus.com.br.global.prod.fastly.net/leastindover/ett/fm/84l2q1w9tvz0.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="FILMES | AÇÃO", ZUMBILÂNDIA: ATIRE DUAS VEZES (2019)
-http://www.empiricus.com.br.global.prod.fastly.net/leastindover/ett/newsthg/filmcucu/zmblnddaatrpmtrDUB.mp4
-
-#EXTINF:-1 tvg-logo"https://vizer.tv/content/movies/posterPt/342/27812.jpg" group-title="FILMES | FAMÍLIA", CRUELLA (2021)
-http://www.empiricus.com.br.global.prod.fastly.net/leastindover/ett/newsthg/filmcucu/kwellarDUB.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="FILMES | AÇÃO", GODZILLA VS KONG (2021)
-http://www.empiricus.com.br.global.prod.fastly.net/leastindover/ett/newsthg/filmcucu/gdzllavskngDUB.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="FILMES | HERÓIS", MULHER-MARAVILHA 1984 (2020)
-http://www.empiricus.com.br.global.prod.fastly.net/leastindover/ett/newsthg/filmcucu/mlhrmrvlh1984DUB.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="FILMES | FAMÍLIA", SONIC: O FILME (2020)
-http://www.empiricus.com.br.global.prod.fastly.net/leastindover/ett/fm/sncdoismilevinte.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="FILMES | FAMÍLIA", OS CROODS 2 (2020)
-http://www.empiricus.com.br.global.prod.fastly.net/leastindover/ett/newsthg/filmcucu/oscrds2.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="FILMES | HERÓIS", CORINGA (2019)
-http://www.empiricus.com.br.global.prod.fastly.net/leastindover/ett/fm/ircfatx9yzks.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="FILMES | FAMÍLIA", TOM E JERRY: O FILME (2021)
-http://www.empiricus.com.br.global.prod.fastly.net/leastindover/ett/newsthg/filmcucu/tmejrryDUB.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="FILMES | FAMÍLIA", RAYA E O ÚLTIMO DRAGÃO (2021)
-http://www.empiricus.com.br.global.prod.fastly.net/leastindover/ett/newsthg/filmcucu/ryaeotmodrgoDUB.mp4 
-
-#EXTINF:-1 tvg-logo"" group-title="FILMES | FAMÍLIA", O REI LEÃO (2019)
-http://www.empiricus.com.br.global.prod.fastly.net/leastindover/ett/newsthg/filmcucu/releao2k19.mp4
-
-#EXTINF:-1 tvg-logo"" group-title="FILMES | FAMÍLIA", HOMEM-ARANHA NO ARANHAVERSO (2019)
-http://www.empiricus.com.br.global.prod.fastly.net/leastindover/ett/fm/vd3mmggnji0w.mp4
