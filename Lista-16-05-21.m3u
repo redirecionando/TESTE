@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1,JPTV OFICIAL
-https://1259667713.vod2.myqcloud.com/fa6ac7b2vodtransuse1259667713/9023369e5285890807459694682/v.f30.mp4
-#EXTINF:-1,LISTA PREMIUM
-https://videocdn.cos.tv/video/22752257853934592.mp4
-#EXTINF:-1,RODA COM 3 MEGAS
-https://videocdn.cos.tv/video/22752823468149760.mp4
 #EXTINF:-1,A&E
 http://rec2.distv.net:80/micheline/micheline/113
 #EXTINF:-1,AGRO BRASIL
@@ -29,8 +23,6 @@ http://rec2.distv.net:80/micheline/micheline/119
 http://rec2.distv.net:80/micheline/micheline/120
 #EXTINF:-1,BOOMERANG
 http://rec2.distv.net:80/micheline/micheline/121
-#EXTINF:-1,BRASILEIRINHAS
-http://rec2.distv.net:80/micheline/micheline/61
 #EXTINF:-1,CANAL 21
 http://rec2.distv.net:80/micheline/micheline/265
 #EXTINF:-1,CANAL BRASIL
@@ -299,8 +291,6 @@ http://rec2.distv.net:80/micheline/micheline/279
 http://rec2.distv.net:80/micheline/micheline/100
 #EXTINF:-1,TV EVANGELIZAR
 http://rec2.distv.net:80/micheline/micheline/91
-#EXTINF:-1,TV FELIZ
-http://rec2.distv.net:80/micheline/micheline/297
 #EXTINF:-1,TV GLOBO NE
 http://rec2.distv.net:80/micheline/micheline/75
 #EXTINF:-1,TV HORIZONTE
@@ -317,16 +307,12 @@ http://rec2.distv.net:80/micheline/micheline/92
 http://rec2.distv.net:80/micheline/micheline/310
 #EXTINF:-1,TV VERDE MARES CE
 http://rec2.distv.net:80/micheline/micheline/306
-#EXTINF:-1,TV VERDE VALE
-http://rec2.distv.net:80/micheline/micheline/293
 #EXTINF:-1,TVE REME
 http://rec2.distv.net:80/micheline/micheline/291
 #EXTINF:-1,TVUP FUTURA FHD
 http://rec2.distv.net:80/micheline/micheline/111
 #EXTINF:-1,UNIVERSAL TV
 http://rec2.distv.net:80/micheline/micheline/205
-#EXTINF:-1,UNIVESP
-http://rec2.distv.net:80/micheline/micheline/292
 #EXTINF:-1,VH1
 http://rec2.distv.net:80/micheline/micheline/206
 #EXTINF:-1,VIVA
@@ -473,12 +459,6 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178438
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178439
 #EXTINF:-1,TELECINE FUN FHD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178440
-#EXTINF:-1,TC FUN FHD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178441
-#EXTINF:-1,TELECINE PIPOCA SD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178442
-#EXTINF:-1,TC PIPOCA SD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178443
 #EXTINF:-1,TELECINE PIPOCA FHD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178446
 #EXTINF:-1,TC PIPOCA FHD ALT
@@ -533,8 +513,6 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178471
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178472
 #EXTINF:-1,DISCOVERY THEATHER HD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178473
-#EXTINF:-1,DISCOVERY THEATHER HD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178474
 #EXTINF:-1,DISCOVERY THEATHER FHD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178475
 #EXTINF:-1,DISCOVERY THEATHER FHD ALT
@@ -557,8 +535,6 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178483
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178484
 #EXTINF:-1,DISCOVERY WORLD HD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178485
-#EXTINF:-1,DISCOVERY WORLD FHD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178486
 #EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY FHD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178492
 #EXTINF:-1,DISCOVERY HOME & HEALTH SD
@@ -571,36 +547,20 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178495
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178496
 #EXTINF:-1,DISCOVERY HOME & HEALTH FHD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178497
-#EXTINF:-1,DISCOVERY HOME & HEALTH FHD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178498
-#EXTINF:-1,A&E SD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178499
-#EXTINF:-1,A&E HD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178500
 #EXTINF:-1,AMC SD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178502
 #EXTINF:-1,AMC HD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178503
-#EXTINF:-1,AMC FHD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178504
 #EXTINF:-1,AXN SD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178505
 #EXTINF:-1,AXN SD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178506
-#EXTINF:-1,AXN HD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178507
-#EXTINF:-1,AXN HD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178508
 #EXTINF:-1,AXN FHD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178509
 #EXTINF:-1,AXN FHD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178510
 #EXTINF:-1,ARTE 1 SD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178511
-#EXTINF:-1,ARTE 1 HD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178512
-#EXTINF:-1,ARTE 1 HD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178513
 #EXTINF:-1,CINEMAX SD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178515
 #EXTINF:-1,CINEMAX HD
@@ -609,8 +569,6 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178516
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178517
 #EXTINF:-1,CINEMAX FHD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178518
-#EXTINF:-1,CINEMAX FHD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178519
 #EXTINF:-1,FOX SD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178520
 #EXTINF:-1,FOX SD ALT
@@ -625,8 +583,6 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178524
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178525
 #EXTINF:-1,FOX PREMIUM 1 HD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178526
-#EXTINF:-1,FOX PREMIUM 1 HD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178527
 #EXTINF:-1,FOX PREMIUM 2 HD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178531
 #EXTINF:-1,FOX PREMIUM 2 HD ALT
@@ -669,8 +625,6 @@ http://168.205.87.198:8555/live/viniciusvieira/vieira123/60.m3u8
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178541
 #EXTINF:-1,MEGAPIX HD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178544
-#EXTINF:-1,MEGAPIX FHD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178545
 #EXTINF:-1,MEGAPIX FHD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178546
 #EXTINF:-1,Megapix
@@ -711,30 +665,10 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178564
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178565
 #EXTINF:-1,SONY HD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178566
-#EXTINF:-1,SONY FHD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178567
-#EXTINF:-1,SYFY SD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178568
-#EXTINF:-1,SYFY SD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178569
-#EXTINF:-1,SYFY HD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178570
 #EXTINF:-1,SYFY HD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178571
-#EXTINF:-1,SYFY FHD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178572
-#EXTINF:-1,TBS SD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178573
-#EXTINF:-1,TBS HD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178574
-#EXTINF:-1,TBS FHD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178575
 #EXTINF:-1,TCM SD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178576
-#EXTINF:-1,TCM SD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178577
-#EXTINF:-1,TCM HD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178578
 #EXTINF:-1,TCM FHD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178579
 #EXTINF:-1,TLC SD ALT
@@ -911,8 +845,6 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178684
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178686
 #EXTINF:-1,H2 HD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178687
-#EXTINF:-1,H2 FHD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178688
 #EXTINF:-1,NATIONAL GEOGRAPHIC SD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178689
 #EXTINF:-1,NATIONAL GEOGRAPHIC SD ALT
@@ -963,20 +895,12 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178714
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178715
 #EXTINF:-1,PREMIERE 3 FHD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178716
-#EXTINF:-1,PREMIERE 4 SD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178717
-#EXTINF:-1,PREMIERE 4 SD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178718
 #EXTINF:-1,PREMIERE 4 HD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178719
 #EXTINF:-1,PREMIERE 4 HD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178720
 #EXTINF:-1,PREMIERE 4 FHD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178721
-#EXTINF:-1,PREMIERE 5 SD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178722
-#EXTINF:-1,PREMIERE 5 SD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178723
 #EXTINF:-1,PREMIERE 5 HD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178724
 #EXTINF:-1,PREMIERE 5 HD ALT
@@ -1083,8 +1007,6 @@ http://cdn.teambr.live:80/xkl2k3/gs0qt3/40737
 http://cdn.teambr.live:80/xkl2k3/gs0qt3/38505
 #EXTINF:-1,HBO SD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178735
-#EXTINF:-1,HBO SD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178736
 #EXTINF:-1,HBO HD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178737
 #EXTINF:-1,HBO HD ALT
@@ -1099,12 +1021,6 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178741
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178742
 #EXTINF:-1,HBO 2 HD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178743
-#EXTINF:-1,HBO 2 HD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178744
-#EXTINF:-1,HBO 2 FHD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178745
-#EXTINF:-1,HBO 2 FHD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178746
 #EXTINF:-1,HBO FAMILY SD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178747
 #EXTINF:-1,HBO FAMILY SD ALT
@@ -1125,8 +1041,6 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178754
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178755
 #EXTINF:-1,HBO MUNDI FHD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178756
-#EXTINF:-1,HBO MUNDI FHD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178757
 #EXTINF:-1,HBO Family
 http://199.127.62.234:2082/streams/194_.m3u8
 #EXTINF:-1,HBO Family*
@@ -1163,12 +1077,6 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178759
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178760
 #EXTINF:-1,HBO POP SD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178761
-#EXTINF:-1,HBO POP SD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178762
-#EXTINF:-1,HBO POP HD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178763
-#EXTINF:-1,HBO POP HD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178764
 #EXTINF:-1,HBO POP FHD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178765
 #EXTINF:-1,HBO SIGNATURE SD ALT
@@ -1331,8 +1239,6 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178848
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178849
 #EXTINF:-1,GLOBO SP HD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178850
-#EXTINF:-1,GLOBO SP HD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178851
 #EXTINF:-1,GLOBO SP FHD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178852
 #EXTINF:-1,GLOBO TV MORENA SD
@@ -1343,10 +1249,6 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178854
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178855
 #EXTINF:-1,GLOBO TV TEM BAURU HD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178856
-#EXTINF:-1,GLOBO TV MORENA HD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178857
-#EXTINF:-1,GLOBO TV MORENA FHD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178858
 #EXTINF:-1,GLOBO TV TEM SJRP
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178860
 #EXTINF:-1,GLOBO TV TEM SOROCABA HD
@@ -1441,10 +1343,6 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178904
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178907
 #EXTINF:-1,BAND NEWS HD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178908
-#EXTINF:-1,BAND NEWS FHD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178909
-#EXTINF:-1,CNN BRASIL SD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178910
 #EXTINF:-1,CNN BRASIL SD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178911
 #EXTINF:-1,CNN BRASIL HD
@@ -1453,8 +1351,6 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178912
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178913
 #EXTINF:-1,CNN BRASIL FHD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178914
-#EXTINF:-1,CNN BRASIL FHD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178915
 #EXTINF:-1,CNN ESPANHOL SD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178916
 #EXTINF:-1,CNN INTERNACIONAL SD ALT
@@ -1547,10 +1443,6 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178977
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178988
 #EXTINF:-1,CANÇÃO NOVA SD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178989
-#EXTINF:-1,REDE VIDA
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178993
-#EXTINF:-1,TV APARECIDA  SD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178994
 #EXTINF:-1,TV APARECIDA ²
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/178995
 #EXTINF:-1,TV APARECIDA HD
@@ -1655,10 +1547,6 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179045
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179046
 #EXTINF:-1,NICKELODEON SD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179047
-#EXTINF:-1,NICKELODEON SD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179048
-#EXTINF:-1,NICKELODEON HD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179049
 #EXTINF:-1,NICKELODEON HD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179050
 #EXTINF:-1,NICKELODEON FHD ALT
@@ -1675,10 +1563,6 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179058
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179059
 #EXTINF:-1,TV RA TIM BUM FHD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179060
-#EXTINF:-1,ZOOMOO
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179061
-#EXTINF:-1,BIS SD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179062
 #EXTINF:-1,BIS SD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179063
 #EXTINF:-1,BIS HD
@@ -1697,8 +1581,6 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179072
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179073
 #EXTINF:-1,CANAL BRASIL HD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179074
-#EXTINF:-1,CANAL SONY SD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179075
 #EXTINF:-1,CANAL SONY HD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179076
 #EXTINF:-1,COMEDY CENTRAL SD ALT
@@ -1707,10 +1589,6 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179080
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179081
 #EXTINF:-1,COMEDY CENTRAL HD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179082
-#EXTINF:-1,COMEDY CENTRAL FHD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179083
-#EXTINF:-1,COMEDY CENTRAL FHD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179084
 #EXTINF:-1,Conmebol 1¹
 http://199.127.62.234:2082/streams/308_.m3u8
 #EXTINF:-1,Conmebol 2¹
@@ -1719,14 +1597,6 @@ http://199.127.62.234:2082/streams/309_.m3u8
 http://199.127.62.234:2082/streams/310_.m3u8
 #EXTINF:-1,Conmebol 4¹
 http://199.127.62.234:2082/streams/311_.m3u8
-#EXTINF:-1,E! HD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179086
-#EXTINF:-1,E! HD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179087
-#EXTINF:-1,E! FHD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179088
-#EXTINF:-1,FISH TV SD
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179089
 #EXTINF:-1,FISH TV SD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179090
 #EXTINF:-1,FISH TV HD
@@ -1737,14 +1607,10 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179092
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179093
 #EXTINF:-1,FOOD NETWORK SD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179094
-#EXTINF:-1,FOOD NETWORK SD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179095
 #EXTINF:-1,FOOD NETWORK HD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179096
 #EXTINF:-1,FOOD NETWORK HD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179097
-#EXTINF:-1,FOOD NETWORK FHD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179099
 #EXTINF:-1,FOX LIFE SD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179100
 #EXTINF:-1,FOX LIFE SD ALT
@@ -1771,8 +1637,6 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179111
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179112
 #EXTINF:-1,LIFETIME SD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179113
-#EXTINF:-1,LIFETIME SD ALT
-http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179114
 #EXTINF:-1,LIFETIME HD ALT
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179116
 #EXTINF:-1,LIFETIME FHD ALT
@@ -1847,11 +1711,3 @@ http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179369
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179370
 #EXTINF:-1,TV APARECIDA  SD
 http://fonteangelusiptv.com:25461/bruna2021/2021bruna/179371
-#EXTINF:-1,Playboy
-http://199.127.62.234:2082/streams/215_.m3u8
-#EXTINF:-1,Sexy Hot
-http://199.127.62.234:2082/streams/216_.m3u8
-#EXTINF:-1,Sextreme
-http://199.127.62.234:2082/streams/217_.m3u8
-#EXTINF:-1,Venus
-http://199.127.62.234:2082/streams/218_.m3u8
